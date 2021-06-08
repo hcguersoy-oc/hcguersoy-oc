@@ -1,22 +1,3 @@
-# Some Info
-
-This is my business related account. I'm a Senior Solution Architect @ [OPITZ CONSULTING](https://www.opitz-consulting.com) in Essen, Germany. 
-
-My personal GitHub account is [hcguersoy](https://github.com/hcguersoy).
-
-## GPG
-
-My commits are usually signed off with GPG, the public key below and can be downloaded [here](./halil-cem.guersoy.pub) .
-
-The fingerprint of the public key is:
-
-```
-77B2 8C53 2CE3 4DF5 73D5  30A0 C196 AC6C E710 1E61
-```
-
-And the public key for copy'n paste:
-
-```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF9h2/8BEADFNAB92wSRnZiSSNAHZy8Xfn1oRqAKDnjv+qopMNKCmT0/IGD8
@@ -70,5 +51,3 @@ GuDrIcBwIcCl1cP3U6sCXySOrXC3E5Sc4Q9OCguCho4gspElV/Dku4ZNWeIunSwJ
 WcsGfOxkOz8VEcXdTjbqtD8LlEp2RGvIE+OM7QdDAqLu7A==
 =626A
 -----END PGP PUBLIC KEY BLOCK-----
-```
-
