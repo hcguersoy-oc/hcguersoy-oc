@@ -1,6 +1,6 @@
 # Some Info
 
-This is my business related account. I'm a Senior Solution Architect @ [OPITZ CONSULTING](https://www.opitz-consulting.com) in Essen, Germany. 
+This is my business related account. I'm a Senior Solution Architect @ [OPITZ CONSULTING](https://www.opitz-consulting.com) in Essen, Germany.
 
 My personal GitHub account is [hcguersoy](https://github.com/hcguersoy).
 
