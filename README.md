@@ -1,12 +1,14 @@
 # Some Info
 
-This is my business related account. I'm a Senior Solution Architect @ [OPITZ CONSULTING](https://www.opitz-consulting.com) in Essen, Germany.
+This was my business related account for my work @ [OPITZ CONSULTING](https://www.opitz-consulting.com).
+
+> :exclamation: This user is abandoned and stays still here only to ensure correct commit signing verification by GitHub :exclamation:
 
 My personal GitHub account is [hcguersoy](https://github.com/hcguersoy).
 
 ## GPG
 
-My commits are usually signed off with GPG, the public key below and can be downloaded [here](./halil-cem.guersoy.pub) .
+My commits with this user are signed off with GPG, the public key is below and can be downloaded [here](./halil-cem.guersoy.pub) .
 
 The fingerprint of the public key is:
 
