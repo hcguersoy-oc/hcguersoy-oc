@@ -2,7 +2,7 @@
 
 This was my business related account for my work @ [OPITZ CONSULTING](https://www.opitz-consulting.com).
 
-> :exclamation: This user is abandoned and stays still here only to ensure correct commit signing verification by GitHub :exclamation:
+> :exclamation: This user is abandoned and stays here only to ensure correct commit signing verification by GitHub :exclamation:
 
 My personal GitHub account is [hcguersoy](https://github.com/hcguersoy).
 
